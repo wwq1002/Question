@@ -1,4 +1,7 @@
 package 数组类型;
+
+import java.util.Arrays;
+
 /*	题目一：（easy）
 	在一个数组中除了一个数字只出现一次之外，其他数字都出现了2次，请找出那个只出现了一次的数字。
 	要求：线性时间复杂度O(N)，空间复杂度为O(1)
@@ -37,16 +40,17 @@ public class 数组中数字出现的个数 {
                 falg=falg<<1;
             }
         }
-        int result=0;
+        int num=0;
         for (int i = 0; i < 32; i++) {
-            result=result<<1;
-            result+=ints[i]%3;
+            ints[i]=ints[i]%3;
+            num+=ints[i]*Math.pow(2,31-i);
         }
-        return result;
+
+        return num;
     }
 
     public static void main(String[] args) {
-        int[] a={1,1,1,2,2,2,3,4,4,4};
+        int[] a={1,1,1,2,2,2,3,3,3,4,4,4,7};
         System.out.println(singgleNumber02(a));
     }
 

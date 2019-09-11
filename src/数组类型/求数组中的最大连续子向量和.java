@@ -8,7 +8,8 @@ public class 求数组中的最大连续子向量和 {
         int max = input[0];
         for (int i = 1; i < input.length; i++) {
             if (sum >= 0) {
-                sum = sum + input[i];//只要能加上，只要不为负数 就一直加 管他了 每加一次 有max记录最大值 拍啥
+                sum = sum + input[i];
+                //只要能加上，只要不为负数 就一直加 管他了 每加一次 有max记录最大值 拍啥
             } else {
                 sum = input[i];
             }

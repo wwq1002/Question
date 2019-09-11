@@ -11,7 +11,8 @@ public class 最长不重复子串 {
         Map<Character, Integer> hashMap = new HashMap<>();
         for (int i = 0; i < s.length(); i++) {/*如果重复出现 则更新下标*/
             if (hashMap.containsKey(s.charAt(i)))
-                star = Math.max(hashMap.get(s.charAt(i)), star);
+                //star = Math.max(hashMap.get(s.charAt(i)), star);
+               star=hashMap.get(s.charAt(i));
             if (ans < i - star + 1) {
                 ans = i - star + 1;
                 head = star;
@@ -22,6 +23,7 @@ public class 最长不重复子串 {
     }
 
     public static void main(String[] args) {
-        System.out.println(lengthOfLongestSubstring("abcabe"));
+
+        System.out.println(lengthOfLongestSubstring("ab"));
     }
 }

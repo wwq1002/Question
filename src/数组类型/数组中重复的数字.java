@@ -4,7 +4,12 @@ import com.sun.org.apache.bcel.internal.generic.NEW;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;/*在一个长度为n的数组里得所有数字都在0~n-1的范围内。 数组中某些数字是重复的， 但不知道有几个数字重复了，也不知道知道每个数字重复了几次。s输入任意一个重复的数字 请判断。例如，输入长度为7的数组{2,3,1,0,2,5,3}那么对应的输出是重复的数字2或者3 */
+import java.util.List;
+/*在一个长度为n的数组里得所有数字都在0~n-1的范围内。
+数组中某些数字是重复的，
+但不知道有几个数字重复了，也不知道知道每个数字重复了几次。
+s输入任意一个重复的数字 请判断。
+例如，输入长度为7的数组{2,3,1,0,2,5,3}那么对应的输出是重复的数字2或者3 */
 
 public class 数组中重复的数字 {
     /**

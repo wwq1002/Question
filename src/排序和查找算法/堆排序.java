@@ -43,7 +43,7 @@ public class 堆排序 {
      * @param array
      */
     public static void buildHeap(int[] array) {
-        //从i = array.length/2 开始调整二叉堆，得到堆。
+        //从i = array.length/2 也就是从左至右的第一个非叶子结点，开始调整二叉堆，得到堆。
         for (int i = array.length/2; i >=0; i--) {
             HeapSort(array,i,array.length);
         }

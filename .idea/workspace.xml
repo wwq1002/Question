@@ -1,0 +1,1444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de28e951-a903-48e8-85b0-492b08752ef5" name="Default Changelist" comment="新增加部分代码">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/META-INF/面试算法.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/Add2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/MathRound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/ThreadPoolDemo$MyCallable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/ThreadPoolDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/TryCatch03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/Work02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/test04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/text.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/tryCatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/tryCatch02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/二进制1的个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/依次打印递增数字.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/依次打印递增数字二默写.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/分割字符串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/多线程.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/多线程test$MyRunnable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/多线程test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/多线程对同一个数进行操作$Sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/多线程对同一个数进行操作.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/子字符串在字符串中出现的次数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/字符串反转.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/一般测试题/引用问题.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/两个节点的公共祖先$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/两个节点的公共祖先.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/二叉树叶子节点的个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/二叉树的深度$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/二叉树的深度.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/二叉树的节点个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/分层遍历$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/分层遍历.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/如何判断二叉搜索树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/二叉树相关算法/深度优先遍历.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/B站笔试/Main1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/B站笔试/Main2$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/B站笔试/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/B站笔试/Main3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/三六零笔试/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/三六零笔试/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/京东笔试/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/京东笔试/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/京东笔试/Main02$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/京东笔试/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/京东笔试/text.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/华为/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/商汤科技/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/商汤科技/Main03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/字节跳动/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/广联达/Main02$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/广联达/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/快手/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/快手/Mian02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/携程/Main01$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/携程/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/携程/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/携程/Main03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/携程/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/浦发/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/浦发/喝饮料问题.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/浦发/最大公约数问题.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/电信笔试/Main01$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/电信笔试/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/电信笔试/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/电信笔试/Mian03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/科大讯飞/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/科大讯飞/Main02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/腾讯/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/腾讯/Main03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/腾讯/Main04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/公司笔试题汇总/腾讯笔试/Main01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/Add.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/不用加实现加法运算.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/之之行二叉树$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/之之行二叉树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/依次打印递增数字.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/判断是否为完全平方数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/判断是否是一个出栈的顺序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/判断是否是合法的日期.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/判断有序二维数组中是否有某一个整数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/反转字符数组.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/变态青蛙跳.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/只出现一次的字符.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/回型输出矩阵.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/奇数在偶数前面并保持相对位置不变.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/字符串转整数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/字符全排列.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/整数二进制有多少个1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/斐波那契.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/替换空格.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/构建B数组由A数据组连乘.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/根据中序遍历和前序遍历来构建原始的二叉树$TreeNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/根据中序遍历和前序遍历来构建原始的二叉树.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/模式串匹配.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/正则表达式练习.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/滑动窗口$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/滑动窗口.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/约瑟夫环.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/获取中位数$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/获取中位数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/进制转换.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/链表K节点反转.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/链表去掉重复点$ListNode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/剑指offer/链表去掉重复点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/图的搜索/BFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/图的搜索/DFS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/字符串相关算法/将字符串转整数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/字符串相关算法/最长不重复子串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/字符串相关算法/最长公共前缀.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/字符串相关算法/最长公共子串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/字符串相关算法/最长公共子序列.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/字符串相关算法/最长回文子串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/字符串相关算法/最长重复子串.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/字符串相关算法/背包01问题.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/排序和查找算法/二分查找.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/排序和查找算法/堆排序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/排序和查找算法/快速排序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/排序和查找算法/直接插入排序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/排序和查找算法/选择排序.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/在排序数组中查找数字出现的次数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/寻找多数元素的问题.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/将数组排成最小的数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/找出最小K个数$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/找出最小K个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/数组中数字出现的个数.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/数组中重复的数字.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/求数组中的最大连续子向量和.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/缺失数0到N.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/调整数组顺序使奇数位于偶数前面.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/数组类型/连续正数序列.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/设计模式/简单工厂方法$Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/设计模式/简单工厂方法$Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/设计模式/简单工厂方法$Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/设计模式/简单工厂方法$ShapeFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/设计模式/简单工厂方法$Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/设计模式/简单工厂方法.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/设计模式/观察者模式.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/链表相关算法/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/链表相关算法/判断是否有环.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/链表相关算法/判断有环情况下的入口点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/链表相关算法/单链表倒数第K个节点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/链表相关算法/单链表反转.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/链表相关算法/合并单链表.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/面试算法/链表相关算法/查找单链表的中间结点.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/公司笔试题汇总/Vivo笔试/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/公司笔试题汇总/Vivo笔试/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/公司笔试题汇总/vivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Mian03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/设计模式/观察者模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/字符串相关算法/最长不重复子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/字符串相关算法/最长不重复子串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/字符串相关算法/最长公共子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/字符串相关算法/最长公共子串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/排序和查找算法/堆排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/排序和查找算法/堆排序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组类型/数组中数字出现的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组类型/数组中数字出现的个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组类型/数组中重复的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组类型/数组中重复的数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组类型/求数组中的最大连续子向量和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组类型/求数组中的最大连续子向量和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组类型/连续正数序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组类型/连续正数序列.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="面试算法" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/字符串相关算法/最长公共前缀.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/字符串相关算法/最长公共子串.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" selection-start-line="11" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Main02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Mian03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="9" column="47" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/剑指offer/获取中位数.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1710">
+              <caret line="60" column="9" selection-start-line="27" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Main01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/vivo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/Vivo笔试/Main02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="41" column="34" selection-start-line="23" selection-start-column="7" selection-end-line="41" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+                <element signature="e#1062#1063#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/Vivo笔试/Main03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/数组类型/求数组中的最大连续子向量和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="20" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/字符串相关算法/最长回文子串.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/test.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/判断是否为完全平方数.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/华为/Main02.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/浦发/test.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/浦发/喝饮料问题.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/浦发/最大公约数问题.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/斐波那契.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/二进制1的个数.java" />
+        <option value="$PROJECT_DIR$/src/排序和查找算法/选择排序.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/子字符串在字符串中出现的次数.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/约瑟夫环.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/进制转换.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/判断是否是合法的日期.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/腾讯/Main01.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/腾讯/Main04.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/腾讯/Main03.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/腾讯/Mian06.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/test04.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/MyRunnable.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/多线程test.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/ThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/多线程.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/携程/Main01.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/携程/Main02.java" />
+        <option value="$PROJECT_DIR$/src/字符串相关算法/背包01问题.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/携程/Main03.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/携程/test.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/多线程对同一个数进行操作.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/依次打印递增数字.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/依次打印递增数字.java" />
+        <option value="$PROJECT_DIR$/src/一般测试题/依次打印递增数字二默写.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/单例模式.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/简单工厂方法.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/抽象工厂方法.java" />
+        <option value="$PROJECT_DIR$/src/剑指offer/链表K节点反转.java" />
+        <option value="$PROJECT_DIR$/src/设计模式/观察者模式.java" />
+        <option value="$PROJECT_DIR$/src/数组类型/寻找多数元素的问题.java" />
+        <option value="$PROJECT_DIR$/src/数组类型/数组中数字出现的个数.java" />
+        <option value="$PROJECT_DIR$/src/数组类型/数组中重复的数字.java" />
+        <option value="$PROJECT_DIR$/src/数组类型/求数组中的最大连续子向量和.java" />
+        <option value="$PROJECT_DIR$/src/数组类型/连续正数序列.java" />
+        <option value="$PROJECT_DIR$/src/排序和查找算法/堆排序.java" />
+        <option value="$PROJECT_DIR$/src/字符串相关算法/最长不重复子串.java" />
+        <option value="$PROJECT_DIR$/src/字符串相关算法/最长公共子串.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Main02.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Mian03.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Main01.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/vivo.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/Vivo笔试/Main02.java" />
+        <option value="$PROJECT_DIR$/src/公司笔试题汇总/Vivo笔试/Main03.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-65" />
+    <option name="y" value="100" />
+    <option name="width" value="1835" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="面试算法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="面试算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="面试算法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="面试算法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="面试算法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="面试算法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="公司笔试题汇总" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="面试算法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="面试算法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="面试算法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="面试算法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="字符串相关算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="面试算法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="面试算法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="排序和查找算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="面试算法" type="b2602c69:ProjectViewProjectNode" />
+              <item name="面试算法" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="数组类型" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/剑指offer" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BaiduNetdiskDownload\SpringBoot课程相关资料\01-课堂代码\01-课堂代码\SpringBootProject\面试算法\src\剑指offer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="链表相关算法" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="一般测试题" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main01">
+    <configuration name="多线程对同一个数进行操作" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一般测试题.多线程对同一个数进行操作" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一般测试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="公司笔试题汇总.电信笔试.Main01" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="公司笔试题汇总.电信笔试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="公司笔试题汇总.电信笔试.Main02" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="公司笔试题汇总.电信笔试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mian03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="公司笔试题汇总.电信笔试.Mian03" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="公司笔试题汇总.电信笔试.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一般测试题.ThreadPoolDemo" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一般测试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长重复子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串相关算法.最长重复子串" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="寻找多数元素的问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组类型.寻找多数元素的问题" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组类型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="判断是否是合法的日期" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.判断是否是合法的日期" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="简单工厂方法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.简单工厂方法" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="反转字符数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.反转字符数组" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="替换空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.替换空格" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中数字出现的个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组类型.数组中数字出现的个数" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组类型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序和查找算法.插入排序" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序和查找算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二分查找" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序和查找算法.二分查找" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序和查找算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="直接插入排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="排序和查找算法.直接插入排序" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="排序和查找算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="在排序数组中查找数字出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组类型.在排序数组中查找数字出现的次数" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组类型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="判断有序二维数组中是否有某一个整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.判断有序二维数组中是否有某一个整数" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="进制转换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.进制转换" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="将字符串转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串相关算法.将字符串转整数" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="奇数在偶数前面并保持相对位置不变" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.奇数在偶数前面并保持相对位置不变" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="抽象工厂方法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="设计模式.抽象工厂方法" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="设计模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长不重复子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串相关算法.最长不重复子串" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中数字出现的个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组类型.数组中数字出现的个数" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组类型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="依次打印递增数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一般测试题.依次打印递增数字" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一般测试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共前缀" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串相关算法.最长公共前缀" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串相关算法.最长公共子串" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="依次打印递增数字二默写" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一般测试题.依次打印递增数字二默写" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一般测试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长公共子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串相关算法.最长公共子序列" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长不重复子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串相关算法.最长不重复子串" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="依次打印递增数字二默写" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一般测试题.依次打印递增数字二默写" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一般测试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串相关算法.最长回文子串" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串相关算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分割字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一般测试题.分割字符串" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="一般测试题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="约瑟夫环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.约瑟夫环" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="剑指offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中重复的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组类型.数组中重复的数字" />
+      <module name="面试算法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组类型.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ThreadPoolDemo" />
+      <item itemvalue="Application.多线程对同一个数进行操作" />
+      <item itemvalue="Application.Main02" />
+      <item itemvalue="Application.Mian03" />
+      <item itemvalue="Application.Main01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main01" />
+        <item itemvalue="Application.Mian03" />
+        <item itemvalue="Application.Main02" />
+        <item itemvalue="Application.多线程对同一个数进行操作" />
+        <item itemvalue="Application.ThreadPoolDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de28e951-a903-48e8-85b0-492b08752ef5" name="Default Changelist" comment="" />
+      <created>1565742737232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565742737232</updated>
+      <workItem from="1565742743151" duration="25573000" />
+      <workItem from="1565829264228" duration="21469000" />
+      <workItem from="1565866434365" duration="3941000" />
+      <workItem from="1565915222576" duration="5528000" />
+      <workItem from="1565935858825" duration="1298000" />
+      <workItem from="1565939804918" duration="217000" />
+      <workItem from="1565940763491" duration="6512000" />
+      <workItem from="1565949661334" duration="4134000" />
+      <workItem from="1566022061448" duration="10094000" />
+      <workItem from="1566040191225" duration="8990000" />
+      <workItem from="1566183266670" duration="7436000" />
+      <workItem from="1566301197998" duration="1791000" />
+      <workItem from="1566370620568" duration="636000" />
+      <workItem from="1566436995796" duration="6150000" />
+      <workItem from="1566455242837" duration="6689000" />
+      <workItem from="1566484766016" duration="3460000" />
+      <workItem from="1566521799750" duration="5695000" />
+      <workItem from="1566644590591" duration="4229000" />
+      <workItem from="1566699068913" duration="19575000" />
+      <workItem from="1566788884609" duration="16293000" />
+      <workItem from="1566867264488" duration="3926000" />
+      <workItem from="1566959574821" duration="16660000" />
+      <workItem from="1567042327436" duration="6676000" />
+      <workItem from="1567126566885" duration="3305000" />
+      <workItem from="1567330067932" duration="7338000" />
+      <workItem from="1567482289054" duration="912000" />
+      <workItem from="1567513147740" duration="1006000" />
+      <workItem from="1567568150767" duration="3444000" />
+      <workItem from="1567593397650" duration="5785000" />
+      <workItem from="1567645915941" duration="8114000" />
+      <workItem from="1567655356531" duration="340000" />
+      <workItem from="1567754692242" duration="6865000" />
+      <workItem from="1567904437433" duration="7356000" />
+      <workItem from="1568034648560" duration="4337000" />
+      <workItem from="1568078122575" duration="8660000" />
+      <workItem from="1568119624430" duration="2897000" />
+      <workItem from="1568192119329" duration="2853000" />
+      <workItem from="1568201871745" duration="275000" />
+    </task>
+    <task id="LOCAL-00001" summary="增加链表K节点反转">
+      <created>1567948816151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567948816151</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250459000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85146445" visible="true" weight="0.1575067" />
+      <window_info id="Structure" order="1" sideWeight="0.5017182" side_tool="true" weight="0.17828418" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.14853556" side_tool="true" weight="0.27546915" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3380481" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.13172804" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23087819" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.19263457" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932975" weight="0.15439093" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.22379604" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" visible="true" weight="0.1855524" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32988507" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.034182306" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加链表K节点反转" />
+    <MESSAGE value="新增加部分代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增加部分代码" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/公司笔试题汇总/腾讯笔试/Main01.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/一般测试题/tryCatch.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/一般测试题/tryCatch02.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$.ic" NAME="依次打印递增数字二默写 Coverage Results" MODIFIED="1567655460228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>一般测试题.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/字符串相关算法/背包01问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/携程/Main03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="29" column="13" selection-start-line="15" selection-start-column="8" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/携程/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/一般测试题/Add.java" />
+    <entry file="file://$PROJECT_DIR$/src/一般测试题/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/一般测试题/多线程对同一个数进行操作.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/一般测试题/依次打印递增数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-166">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/依次打印递增数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/一般测试题/依次打印递增数字二默写.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/链表k节点一组进行翻转.java" />
+    <entry file="file://$PROJECT_DIR$/src/二叉树相关算法/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表相关算法/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表相关算法/单链表倒数第K个节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/抽象工厂方法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4260">
+          <caret line="142" column="28" selection-start-line="142" selection-start-column="28" selection-end-line="142" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/单例模式.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/观察者模式.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/链表K节点反转.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/设计模式/简单工厂方法.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="45" column="55" selection-start-line="45" selection-start-column="55" selection-end-line="45" selection-end-column="55" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表相关算法/单链表反转.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表相关算法/合并单链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表相关算法/判断是否有环.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表相关算法/判断有环情况下的入口点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表相关算法/查找单链表的中间结点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/寻找多数元素的问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/在排序数组中查找数字出现的次数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/将数组排成最小的数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/找出最小K个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/数组中数字出现的个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/数组中重复的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/缺失数0到N.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/调整数组顺序使奇数位于偶数前面.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/连续正数序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序和查找算法/二分查找.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序和查找算法/堆排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序和查找算法/快速排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序和查找算法/直接插入排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/排序和查找算法/选择排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符串相关算法/将字符串转整数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_60/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符串相关算法/最长不重复子串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="26" column="57" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/vivo/Main02.java" />
+    <entry file="file://$PROJECT_DIR$/src/字符串相关算法/最长公共前缀.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/字符串相关算法/最长公共子串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Main02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Mian03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="47" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/剑指offer/获取中位数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="60" column="9" selection-start-line="27" selection-start-column="7" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/电信笔试/Main01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/vivo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/Vivo笔试/Main02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="41" column="34" selection-start-line="23" selection-start-column="7" selection-end-line="41" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+            <element signature="e#1062#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组类型/求数组中的最大连续子向量和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/公司笔试题汇总/Vivo笔试/Main03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
